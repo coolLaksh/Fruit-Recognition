@@ -48,7 +48,7 @@ The Fruit Recognition Project utilizes a combination of traditional Machine Lear
     - Evaluate model performance using the testing dataset.
     - Adjust hyperparameters as needed.
 
-For the dataset use this like: 
+For the dataset use this like: https://drive.google.com/drive/folders/1-EHnVndwI5DBK6OeUkHcSYDTmQCp1AND?usp=sharing
 
 Also you can access project report from here: https://drive.google.com/file/d/1B9MaxvqaDeAAB6jFqjFng4nNc7dbOEOw/view
 
