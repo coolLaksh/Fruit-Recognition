@@ -25,7 +25,7 @@ The Fruit Recognition Project utilizes a combination of traditional Machine Lear
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/fruit-recognition-project.git
+    git clone https://github.com/coolLaksh/fruit-recognition-project.git
     ```
 
 2. **Install Dependencies**:
