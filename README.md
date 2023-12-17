@@ -50,4 +50,6 @@ The Fruit Recognition Project utilizes a combination of traditional Machine Lear
 
 For the dataset use this like: 
 
+Also you can access project report from here: https://drive.google.com/file/d/1B9MaxvqaDeAAB6jFqjFng4nNc7dbOEOw/view
+
 Happy fruit recognition coding! 🍏🍊🍇🍓🍍
